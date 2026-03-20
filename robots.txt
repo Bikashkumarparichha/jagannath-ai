@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bikashkumarparichha.github.io/jagannath-ai/sitemap.xml
